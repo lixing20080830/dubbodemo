@@ -10,7 +10,10 @@ import com.langqiao.dubbo.model.User;
 
 public class Consumer {
 
+
+    //测试提交
 	private DemoService demoService;
+
 
 	public static void main(String[] args) throws Exception {
 		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(new String[] { "applicationContext.xml" });
