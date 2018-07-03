@@ -1,4 +1,4 @@
-# dubbodemo
+# dubbodemo run
 
 1 启动zookeeper<br>
 2 启动tomcat，运行dubbo-admin<br>
