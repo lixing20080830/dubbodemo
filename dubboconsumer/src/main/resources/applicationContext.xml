@@ -12,7 +12,7 @@
 
 	<!-- 使用zookeeper注册中心暴露服务地址 -->
 	<!-- <dubbo:registry address="multicast://224.5.6.7:1234" /> -->
-	<dubbo:registry address="zookeeper://127.0.0.1:2181" />
+	<dubbo:registry address="zookeeper://106.12.37.42:2181" />
 
 
 	<dubbo:consumer timeout="5000"/>
